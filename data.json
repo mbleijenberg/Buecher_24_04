@@ -1,0 +1,20 @@
+{
+    "books": [
+        {
+            "title": "Python: 3 Programmieren für Einsteiger: Der leichte Weg zum Python-Experten",
+            "author": "Michael Bonacina"
+        },
+        {
+            "title": "Java Programmieren: für Einsteiger: Der leichte Weg zum Java-Experten",
+            "author": "Michael Bonacina"
+        },
+        {
+            "title": "JavaScript: Programmieren für Einsteiger: Der leichte Weg zum JavaScript-Experten",
+            "author": "Paul Fuchs"
+        },
+        {
+            "title": "Spiele programmieren: Der effektivste Weg zu deinem eigenen Spiel!",
+            "author": "Michael Mark"
+        }
+    ]
+}
